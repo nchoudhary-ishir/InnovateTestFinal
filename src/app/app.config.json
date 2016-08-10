@@ -1,0 +1,14 @@
+{
+  "appname": "InnovateTestFinal",
+  "scope": "DevCenterImpersonate",
+  "clientid": "0B04D8EC-1F2B-4D55-B880-B45F11C41459",
+  "buyerid": null,
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
